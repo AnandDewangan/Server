@@ -9,11 +9,11 @@
   "author": "Anand Dewangan",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2",
-    "mongoose": "^7.5.2",
-    "nodemailer": "^6.9.5",
-    "nodemon": "^3.0.1",
-    "stripe": "^13.6.0",
-    "uuid": "^9.0.1"
+    "express": "4.18.2",
+    "mongoose": "7.5.2",
+    "nodemailer": "6.9.5",
+    "nodemon": "3.0.1",
+    "stripe": "13.6.0",
+    "uuid": "9.0.1"
   }
 }
